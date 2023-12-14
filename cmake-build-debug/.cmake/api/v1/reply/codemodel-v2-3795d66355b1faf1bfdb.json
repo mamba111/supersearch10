@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FinalProjExamples",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "supersearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-supersearch-Debug-5a6448bdbd0a8cbab586.json",
+					"name" : "supersearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests_AVL_Tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests_AVL_Tree-Debug-f98c5a2def3273316d49.json",
+					"name" : "tests_AVL_Tree",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/anaja/OneDrive/Desktop/raz-.-/ass 4 - supersearch/cmake-build-debug",
+		"source" : "C:/Users/anaja/OneDrive/Desktop/raz-.-/ass 4 - supersearch"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

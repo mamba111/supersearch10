@@ -1,0 +1,8 @@
+# ninja log v5
+706	36237	7240043842561676	tests_AVL_Tree.exe	f4f7f75f571b10b2
+29	24675	7242051419848252	CMakeFiles/tests_AVL_Tree.dir/avl_tree_tests.cpp.obj	b963ef9c5964e681
+4	57913	7242052034109149	tests_AVL_Tree.exe	b460d53193c1c3ee
+16	15626	7242057024990338	CMakeFiles/tests_AVL_Tree.dir/avl_tree_tests.cpp.obj	b963ef9c5964e681
+15629	52386	7242057380021054	tests_AVL_Tree.exe	b460d53193c1c3ee
+22	18518	7242059103637139	CMakeFiles/tests_AVL_Tree.dir/avl_tree_tests.cpp.obj	b963ef9c5964e681
+18520	56445	7242059469040786	tests_AVL_Tree.exe	b460d53193c1c3ee
